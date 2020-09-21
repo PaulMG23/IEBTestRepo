@@ -3,5 +3,5 @@
 
 void main ( void )
 {
-	
+	printf("i am FJ");
 }
