@@ -6,5 +6,5 @@ void main ( void )
 	printf("i am FJ");
 
 	printf("I am PM");
-        printf("i am AS");
+        printf("You are not AS");
 }
